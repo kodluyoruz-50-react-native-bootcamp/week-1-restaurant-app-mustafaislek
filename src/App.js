@@ -11,6 +11,7 @@ import {
   Image
 } from 'react-native'
 
+
 import { ListItem } from './components'
 import data from './data.json'
 
